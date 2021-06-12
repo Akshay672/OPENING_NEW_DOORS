@@ -62,3 +62,7 @@ From the above conclusions we can draw that Raipur and Thiruvallur are the main 
 
 There is tie between Malappuram and Jalpaiguri as they balance equally in some aspects.
 
+
+
+<h4>CASE STUDY FILE LINK : <a href='https://github.com/Akshay672/OPENING_NEW_DOORS/blob/main/OPENING_NEW_DOORS.ipynb'>OPENING_NEW_DOORS.ipynb</a></h4>
+
