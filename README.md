@@ -64,5 +64,5 @@ There is tie between Malappuram and Jalpaiguri as they balance equally in some a
 
 
 
-<h4>CASE STUDY FILE LINK : <a href='https://github.com/Akshay672/OPENING_NEW_DOORS/blob/main/OPENING_NEW_DOORS.ipynb'>OPENING_NEW_DOORS.ipynb</a></h4>
+<h4>CASE STUDY TABLEAU FILE LINK : <a href='https://public.tableau.com/views/OPENINGNEWDOORS/OPENINGNEWDOORS?:language=en-US&:display_count=n&:origin=viz_share_link'>OPENING_NEW_DOORS</a></h4>
 
