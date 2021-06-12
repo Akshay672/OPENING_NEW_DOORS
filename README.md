@@ -36,24 +36,27 @@ Our Intention is clear too set up 3 more subway stores in major cities to expand
 
 Based on the above Visulization
 
-Raipur
+# Raipur
 
 It is ranked 2nd in terms of Population.
 It has a good literacy rate in terms of both male and female.
 It has the highest population in the age group of 0 to 29.
 It has the highest working Population
-Thiruvallur
+
+# Thiruvallur
 
 It is ranked 4th in terms of Population.
 It has a good literacy rate in terms of both male and female.
 It has the highest population in the age group of 30 to 49.
 It has the highest Male working Population.
-Malappuram
+
+# Malappuram
 
 It is ranked 1st in terms of Population.
 It has a best literacy rate in terms of both male and female.
 It has the highest population in the age group of 50 and above.
-Jalpaiguri
+
+# Jalpaiguri
 
 It is ranked 3rd in terms of Population.
 It has a better literacy rate in terms of both male and female.
@@ -61,7 +64,6 @@ It has the highest Male working Population.
 From the above conclusions we can draw that Raipur and Thiruvallur are the main hotspots to establish the business first.
 
 There is tie between Malappuram and Jalpaiguri as they balance equally in some aspects.
-
 
 
 <h4>CASE STUDY TABLEAU FILE LINK : <a href='https://public.tableau.com/views/OPENINGNEWDOORS/OPENINGNEWDOORS?:language=en-US&:display_count=n&:origin=viz_share_link'>OPENING_NEW_DOORS</a></h4>
